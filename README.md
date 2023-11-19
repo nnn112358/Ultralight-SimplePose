@@ -1,5 +1,5 @@
 # Ultralight-SimplePose
-![image]([Screenshot from 2023-11-19 10-05-36.png](https://github.com/nnn112358/Ultralight-SimplePose/blob/master/Screenshot%20from%202023-11-19%2010-05-36.png))
+![image](https://github.com/nnn112358/Ultralight-SimplePose/blob/master/Screenshot%20from%202023-11-19%2010-05-36.png)
 
 * Support NCNN mobile terminal deployment
 * Based on MXNET(>=1.5.1) GLUON(>=0.7.0) framework
